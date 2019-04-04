@@ -57,9 +57,3 @@ cacheSolve <- function(x, ...) {
 
            
              
-
-
-## Write a short comment describing this function
-
-
-}
